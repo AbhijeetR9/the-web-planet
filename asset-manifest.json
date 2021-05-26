@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/the-web-planet/static/css/main.6b530c72.chunk.css",
+    "main.js": "/the-web-planet/static/js/main.21bdddde.chunk.js",
+    "main.js.map": "/the-web-planet/static/js/main.21bdddde.chunk.js.map",
+    "runtime-main.js": "/the-web-planet/static/js/runtime-main.74fa50e8.js",
+    "runtime-main.js.map": "/the-web-planet/static/js/runtime-main.74fa50e8.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/the-web-planet/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.62003f19.chunk.js": "/the-web-planet/static/js/2.62003f19.chunk.js",
+    "static/js/2.62003f19.chunk.js.map": "/the-web-planet/static/js/2.62003f19.chunk.js.map",
+    "index.html": "/the-web-planet/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/the-web-planet/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.6b530c72.chunk.css.map": "/the-web-planet/static/css/main.6b530c72.chunk.css.map",
+    "static/js/2.62003f19.chunk.js.LICENSE.txt": "/the-web-planet/static/js/2.62003f19.chunk.js.LICENSE.txt",
+    "static/media/android2.72e4d25b.gif": "/the-web-planet/static/media/android2.72e4d25b.gif",
+    "static/media/app2.47112859.gif": "/the-web-planet/static/media/app2.47112859.gif",
+    "static/media/bg1.9c5f92f6.gif": "/the-web-planet/static/media/bg1.9c5f92f6.gif",
+    "static/media/index.css": "/the-web-planet/static/media/contact.aad42919.gif",
+    "static/media/cyber2.d998365a.gif": "/the-web-planet/static/media/cyber2.d998365a.gif",
+    "static/media/digital2.c9a88b5a.gif": "/the-web-planet/static/media/digital2.c9a88b5a.gif",
+    "static/media/email.03343e0c.gif": "/the-web-planet/static/media/email.03343e0c.gif",
+    "static/media/fb.14372a53.gif": "/the-web-planet/static/media/fb.14372a53.gif",
+    "static/media/insta.f74c0114.gif": "/the-web-planet/static/media/insta.f74c0114.gif",
+    "static/media/navbar-logo.06464f8d.gif": "/the-web-planet/static/media/navbar-logo.06464f8d.gif",
+    "static/media/new2.577121a3.gif": "/the-web-planet/static/media/new2.577121a3.gif",
+    "static/media/software2.ff1d6adb.gif": "/the-web-planet/static/media/software2.ff1d6adb.gif",
+    "static/media/web2.5ccca643.gif": "/the-web-planet/static/media/web2.5ccca643.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74fa50e8.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.62003f19.chunk.js",
+    "static/css/main.6b530c72.chunk.css",
+    "static/js/main.21bdddde.chunk.js"
+  ]
+}
